@@ -1,2 +1,2 @@
 # lessons
-lesson for classmates
+lesson about study of high school for my classmates of junior high school
