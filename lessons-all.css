@@ -10,7 +10,7 @@ body{
 }
 #title{
     text-align: center;
-    font-size: 60px;
+    font-size: xx-large;
     border: solid white;
     border-radius: 10px;
     color: black;
@@ -34,7 +34,7 @@ body{
     color: black;
     text-decoration: none;
     text-align: center;
-    font-size: xx-large;
+    font-size: large;
 }
 .header {
     background: #fff;
