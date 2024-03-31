@@ -88,8 +88,8 @@ body{
     display: flexbox block;
     border: solid white;
     border-radius: 7.5px;
-    padding: 7px;
-    margin: auto;
+    padding: 6px;
+    margin: 1px;
     margin-top: 20px;
     margin-bottom: 10px;
     background: deepskyblue;
