@@ -68,6 +68,8 @@ body{
 .sitemap_contents_text{
     color: white;
     text-decoration: none;
+    font-size: smaller;
+    padding-left: 25px;
 }
 @media screen and (max-width:480px) {
 	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
