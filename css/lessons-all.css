@@ -50,14 +50,26 @@ body{
     text-align: left;
     margin: auto;
     padding: 10px;
+    color: white;
+    text-decoration: none;
 }
-#sitemap_text{
+#sitemap_title{
     display: block;
+    color: white;
+    text-decoration: none;
+    margin-bottom: unset;
+}
+.sitemap_contents_title{
+    color: white;
+    text-decoration: none;
+    font-size: small;
+    padding-left: 10px;
+}
+.sitemap_contents_text{
     color: white;
     text-decoration: none;
 }
 @media screen and (max-width:480px) {
-
 	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
   body{
     font-family: 'UD デジタル 教科書体 NP-B';
@@ -115,6 +127,5 @@ body{
 #sitemap_title{
     display: block;
     color: white;
-    text-decoration: none;
 }
 }
