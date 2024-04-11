@@ -57,11 +57,11 @@ body{
     font-size: xx-large;
     align-items: center;
 }
-.units{
+.lessons{
     display: block;
     margin-top: unset;
 }
-.units_text{
+.lessons_text{
     display: list-item;
     text-align: center;
     text-decoration: none;
