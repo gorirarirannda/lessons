@@ -44,26 +44,25 @@ body{
 }
 .subjects{
     display: block;
-    border: solid white;
-    border-radius: 8px;
     text-decoration: none;
-    background-color: aquamarine;
     text-align: center;
-    margin: 30px 600px 5px;
-    width: 80px;
-    text-indent: 0px;
-    padding: 3px 5px 3px 5px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
     color: black;
     font-size: xx-large;
     align-items: center;
 }
 .lessons{
     display: block;
+    padding-top: 0px;
     margin-top: unset;
 }
 .lessons_text{
     display: list-item;
     text-align: center;
+    padding-top: 0px;
+    margin-top: unset;
     text-decoration: none;
     color: black;
 }
