@@ -1,0 +1,24 @@
+.subjects{
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    color: black;
+    font-size: xx-large;
+    align-items: center;
+}
+.lessons{
+    display: block;
+    padding-top: 0px;
+    margin-top: unset;
+}
+.lessons_text{
+    display: list-item;
+    text-align: center;
+    padding-top: 0px;
+    margin-top: unset;
+    text-decoration: none;
+    color: black;
+}
